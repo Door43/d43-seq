@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[seq:home|Door43 (seq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-seq|d43-seq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-seq/archive/master.zip|d43-seq.zip]]
+
+**Recent Changes**
+{{changes>ns = seq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/seq|Ethnologue data]]
+
